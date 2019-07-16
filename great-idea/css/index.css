@@ -185,3 +185,45 @@ footer {
   text-align: center;
   font-size: 14px;
 }
+
+/* Services intro specialized css */
+.services-header-img {
+	width:100%;
+	margin-top: 37px;
+}
+.services-intro-content {
+	margin-top: 37px;
+	padding-bottom: 37px;
+	margin-bottom: 37px;
+	border-bottom: 1px solid black;
+}
+
+.services-descriptions {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+	
+}
+.description-box {
+
+	border: 1px solid black;
+	background: #eeeeee;
+	padding: 24px;
+	width: 420px;
+	margin-bottom: 37px;
+}
+
+.learn-more-button {
+	margin-top: 24px;
+	background: #ffffff;
+	height: 24px;
+	width: 100px;
+	border-radius: 6px;
+	border: 1px solid black;
+}
+.learn-more-button:hover {
+	color: white;
+	background: black;
+	cursor: pointer;
+}
+
