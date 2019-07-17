@@ -227,3 +227,23 @@ footer {
 	cursor: pointer;
 }
 
+.facts-section {
+	display: flex;
+	border-top: 1px solid black;
+	justify-content: space-between;
+	
+}
+.bottom-content-services {
+	margin-top: 37px;
+	width:420px;
+
+}
+li {
+	list-style-type: disc;
+	margin-left: 25px;
+	margin-top: 10px;
+}
+
+.copyright {
+	margin-top: 100px;
+}
